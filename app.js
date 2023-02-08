@@ -23,6 +23,7 @@ const filePath = path.join(__dirname, "key-code.txt");
 const listKey = {
   256053653: "6083638211648177",
   248576822: "1665417788762220",
+   252645831: "3065417788763543"
 };
 
 app.get("/", (req, res) => {
